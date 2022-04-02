@@ -2,8 +2,8 @@
   "name": "Template plugins",
   "description": "Custom templates plugin",
   "version": "1.0.0",
-  "author": "Rakesh",
-  "repository": "https://github.com/masterghost2002/my_template_pod",
+  "author": "Rakesh Dhariwal",
+  "repository": "https://github.com/masterghost2002/monokle-templates-plugin.git",
   "monoklePlugin": {
     "modules": [
       {
